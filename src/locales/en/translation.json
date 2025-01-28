@@ -1,0 +1,19 @@
+{
+  "addBranch": "Add Branch",
+  "addBranchDescription": "Add Branch you are relax man",
+  "moveToIntroduction": "Go To Introduction Screen",
+  "airQualityReport": "Air Quality Report",
+  "airFlowSpeed": "Air Flow Speed",
+  "voc": "VOC",
+  "pm": "PM",
+  "co2": "Carbon Dioxide",
+  "ozone": "Ozone",
+  "ammonia": "Ammonia",
+  "securityReport": "Security Report",
+  "doorStatus": "Door Status",
+  "motionStatus": "Motion Status",
+  "smokeLevel": "Smoke Level Information",
+  "waterLeak": "Water Leak Information",
+  "powerOutage": "Power Outage Status",
+  "manholeCover": "Manhole Cover Monitoring"
+}

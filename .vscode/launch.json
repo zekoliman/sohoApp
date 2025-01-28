@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "react-native-ide",
+            "request": "launch",
+            "name": "React Native IDE panel",
+            "android": {
+                "buildType": "debug",
+                "productFlavor": "pl"
+            },
+        }
+    ]
+}
